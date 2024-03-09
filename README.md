@@ -9,7 +9,7 @@
 
 - Knowledge of **JavaScript, HTML, CSS, SQL, Node.JS**
 
-- 👨‍💻 More about me [https://www.linkedin.com/in/maycon-mancilha/)
+- 👨‍💻 More about me [https://www.linkedin.com/in/mayconmancilha/)
 
 <br><br>
 
